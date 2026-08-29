@@ -54,7 +54,4 @@ Dalam proses pengembangan game ini, terdapat beberapa kendala teknis yang dihada
 
 ## 📹 Video Gameplay
 Saksikan rekaman *gameplay* dari game ini melalui video berikut:
-
-![Gameplay Demo](https://drive.google.com/file/d/17uS1AcWd7MRNR-NJswm70neJqJUzgTZQ/view?usp=sharing)
-
-> *Atau kamu juga bisa menonton video demo gameplay:* [Link Video Gameplay ](https://drive.google.com/file/d/17uS1AcWd7MRNR-NJswm70neJqJUzgTZQ/view?usp=sharing)
+👉 [Nonton Video Gameplay di Google Drive](https://drive.google.com/file/d/17uS1AcWd7MRNR-NJswm70neJqJUzgTZQ/view?usp=sharing)
